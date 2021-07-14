@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
-<h2> index.md
+{index.md}
  
 
