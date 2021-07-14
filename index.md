@@ -1,6 +1,6 @@
 ---
 layout: default
 ---
-<index.md>
+index.md
  
 
